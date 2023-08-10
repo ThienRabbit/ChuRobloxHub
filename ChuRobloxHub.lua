@@ -1,7 +1,7 @@
 repeat wait() until game:IsLoaded()
 
 game.StarterGui:SetCore("SendNotification", {
-      Icon = "rbxassetid://9610159123";
+      Icon = "rbxassetid://14259751426";
           Title = "Thông Báo!", 
       Text = "Vui Lòng Đợi Loading Update..."
   })
@@ -9,7 +9,7 @@ game.StarterGui:SetCore("SendNotification", {
   wait(10)
   
   game.StarterGui:SetCore("SendNotification", {
-      Icon = "rbxassetid://9610159123";
+      Icon = "rbxassetid://14259751426";
       Title = "Thông Báo!", 
       Text = "Loading Thành Công :)"
   })
@@ -17,7 +17,7 @@ game.StarterGui:SetCore("SendNotification", {
   wait(5)
   
   game.StarterGui:SetCore("SendNotification", {
-      Icon = "rbxassetid://9610159123";
+      Icon = "rbxassetid://14259751426";
       Title = "Thông Báo!", 
       Text = "Đang Kiểm Tra Bypass :)"
   })
@@ -25,7 +25,7 @@ game.StarterGui:SetCore("SendNotification", {
   wait(10)
   
   game.StarterGui:SetCore("SendNotification", {
-      Icon = "rbxassetid://9610159123";
+      Icon = "rbxassetid://14259751426";
       Title = "Thông Báo!", 
       Text = "Đã Bật Bypass Thành Công V1 : )"
   })
@@ -33,17 +33,17 @@ game.StarterGui:SetCore("SendNotification", {
   wait(5)
   
   game.StarterGui:SetCore("SendNotification", {
-      Icon = "rbxassetid://9610159123";
+      Icon = "rbxassetid://14259751426";
       Title = "Thông Báo!", 
       Text = "Đã Bật Bypass Thành Công V2 : )"
   })
   game.StarterGui:SetCore("SendNotification", {
-      Icon = "rbxassetid://9610159123";
+      Icon = "rbxassetid://14259751426";
       Title = "Thông Báo!", 
       Text = "Đã Bật Bypass Thành Công V3 : )"
   })
   game.StarterGui:SetCore("SendNotification", {
-      Icon = "rbxassetid://9610159123";
+      Icon = "rbxassetid://14259751426";
       Title = "Thông Báo!", 
       Text = "Đã Bật Bypass Thành Công V4 : )"
   })
@@ -51,7 +51,7 @@ game.StarterGui:SetCore("SendNotification", {
   wait(10)
 
   game.StarterGui:SetCore("SendNotification", {
-      Icon = "rbxassetid://9610159123";
+      Icon = "rbxassetid://14259751426";
       Title = "Thông Báo!", 
       Text = "Chào Mừng Bạn Đã Trở Lại..."
   })
@@ -244,7 +244,7 @@ Logo.Image = "rbxassetid://14259751426"
 	Hub.Position = UDim2.new(0, 150, 0, 0)
 	Hub.Size = UDim2.new(0, 81, 0, 27)
 	Hub.Font = Enum.Font.GothamSemibold
-	Hub.Text = "Shop Acc https://randomdtizen2.site"
+	Hub.Text = "Welcome to ChuRobloxHub"
 	Hub.TextColor3 = Color3.fromRGB(255, 255, 255)
 	Hub.TextSize = 14.000
 	Hub.TextXAlignment = Enum.TextXAlignment.Left
