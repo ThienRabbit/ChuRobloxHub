@@ -283,7 +283,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
             PageImage.BackgroundTransparency = 1.000
             PageImage.Position = UDim2.new(0, -20, 0, 3)
             PageImage.Size = UDim2.new(0, 15, 0, 15)
-            PageImage.Image = "rbxassetid://"..tostring(Image)
+            PageImage.Image = "rbxassetid://14259751426"..tostring(Image)
     
             local MainTab = Instance.new("Frame")
             MainTab.Name = "MainTab"
