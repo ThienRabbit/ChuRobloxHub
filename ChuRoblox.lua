@@ -614,7 +614,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
                 DropImage.Position = UDim2.new(0, 425, 0, 5)
                 DropImage.Rotation = 0
                 DropImage.Size = UDim2.new(0, 20, 0, 20)
-                DropImage.Image = "rbxassetid://5012539403"
+                DropImage.Image = "rbxassetid://14259751426"
                 
                 DropScroll.Name = "DropScroll"
                 DropScroll.Parent = Droptitle
@@ -7181,7 +7181,7 @@ elseif game.PlaceId == 4520749081 or game.PlaceId == 6381829480 or game.PlaceId 
                 DropImage.Position = UDim2.new(0, 425, 0, 5)
                 DropImage.Rotation = 0
                 DropImage.Size = UDim2.new(0, 20, 0, 20)
-                DropImage.Image = "rbxassetid://5012539403"
+                DropImage.Image = "rbxassetid://14259751426"
                 
                 DropScroll.Name = "DropScroll"
                 DropScroll.Parent = Droptitle
